@@ -21,6 +21,6 @@ Then visit `http://localhost:4173`.
 
 Vercel will automatically publish future changes pushed to the connected GitHub repository.
 
-## Before publishing a résumé
+## Public résumé
 
-Do not add the current PDF to the public site because it contains references' personal contact information. Export a public version without the References section, add it as `assets/Hans-Bragas-Resume.pdf`, and update the résumé button in `index.html`.
+The current résumé is intentionally not bundled because its References section contains private contact information. Add a public version only after removing that section.
